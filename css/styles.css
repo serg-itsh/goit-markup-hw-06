@@ -988,7 +988,7 @@ address {
 
 /* <!-- форма подписки --> */
 .basement-form {
-  margin-left: 93px;
+  margin-left: auto;
 }
 
 .basement-form > .basement-header {
